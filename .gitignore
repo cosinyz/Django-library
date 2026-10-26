@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+staticfiles/
+
+# Переменные окружения
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
